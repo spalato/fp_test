@@ -1,0 +1,12 @@
+name: fp_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - jupyter
+  - numpy
+  - ipympl
+  - lmfit
+prefix: C:\Users\samue\Anaconda3\envs\fp_test
